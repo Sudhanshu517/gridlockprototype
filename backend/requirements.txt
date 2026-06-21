@@ -15,11 +15,11 @@ python-dotenv==1.0.1
 
 # ── AI / Computer Vision ──────────────────────────────────────────────────────
 ultralytics==8.4.72
-torch==2.2.2
-torchvision==0.17.2
-opencv-python-headless==4.8.0.74
-Pillow==10.0.0
-numpy==1.24.3
+torch==2.12.1
+torchvision==0.27.1
+opencv-python-headless==4.10.0.84
+Pillow==10.4.0
+numpy==1.26.4
 
 # ── Cloud storage ─────────────────────────────────────────────────────────────
 cloudinary==1.40.0
